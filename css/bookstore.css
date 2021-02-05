@@ -1,0 +1,52 @@
+.img-book-catalog {
+  width: 100%;
+  height: 100%;
+}
+
+.main-content {
+  padding: 20px;
+}
+
+.subtitle {
+  color: #049dbf;
+}
+
+h3 {
+  color: gray;
+}
+
+h4,
+h5 {
+  color: #049dbf;
+}
+
+.background-general {
+  background-color: #025e74;
+  color: white;
+}
+
+.background-button {
+  background-color: #049dbf;
+  color: white;
+}
+
+.background-button:hover {
+  background-color: #025e74;
+  color: white;
+}
+
+.back-red {
+    background-color:red;
+}
+
+.back-yellow {
+    background-color:yellow;
+}
+
+.back-green {
+    background-color:green;
+}
+
+.back-blue {
+    background-color:blue;
+}
